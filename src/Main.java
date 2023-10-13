@@ -3,5 +3,10 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Aydarchik007");
         System.out.println("AydarLast");
+                System.out.println("AydarLast");
+        System.out.println("AydarLast");
+        System.out.println("AydarLast");
+        System.out.println("AydarLast");
+
     }
 }
