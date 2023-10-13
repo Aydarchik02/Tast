@@ -8,5 +8,8 @@ public class Main {
         System.out.println("AydarLast");
         System.out.println("AydarLast");
 
+
+        System.out.println("Cho taaam");
+
     }
 }
