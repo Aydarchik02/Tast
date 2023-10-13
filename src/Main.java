@@ -20,6 +20,9 @@ public class Main {
         animal.name = "Cat";
         animal.age = 5;
         System.out.println(animal);
-
+        Animal animal1 = new Animal();
+        animal1.name= "fgh";
+        animal1.age = 67;
+        System.out.println(animal1);
     }
 }
