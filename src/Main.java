@@ -16,7 +16,7 @@ public class Main {
         System.out.println("Cho taaam");
         System.out.println("Cho taaam");
         System.out.println("Cho taaam");
-
+        Animal animal = new Animal();
 
     }
 }
